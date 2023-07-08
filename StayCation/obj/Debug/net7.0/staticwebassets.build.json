@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qTyjeA0UiN17XSD8t3+BMufISZK/YCzym6W0R8YGT2A=",
+  "Hash": "T0Rvjq6prXF5K80CQ1G32euWOJazmoyacgJDfBEOJWo=",
   "Source": "StayCation",
   "BasePath": "_content/StayCation",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "StayCation\\wwwroot",
       "Source": "StayCation",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StayCation.styles.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StayCation.styles.css",
       "SourceId": "StayCation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "StayCation.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StayCation.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\bundle\\StayCation.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StayCation.bundle.scp.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StayCation.bundle.scp.css",
       "SourceId": "StayCation",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "StayCation.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StayCation.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StayCation.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\css\\style.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\css\\style4signUp.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\css\\style4signUp.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "css/style4signUp.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style4signUp.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\B1.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\B1.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/B1.png",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\img\\B1.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\B2.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\B2.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/B2.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\img\\B2.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\B3.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\B3.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/B3.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\img\\B3.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\B4.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\B4.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/B4.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\img\\B4.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\banner.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\banner.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/banner.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\Bottom_img.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\Bottom_img.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/Bottom_img.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Bottom_img.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\cities.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\cities.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/cities.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\img\\cities.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\icon\\location.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\icon\\location.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/icon/location.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\location.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\icon\\lock.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\icon\\lock.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/icon/lock.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\lock.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\icon\\snap.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\icon\\snap.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/icon/snap.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\snap.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\item 1.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\item 1.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/item 1.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\img\\item 1.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\item 2.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\item 2.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/item 2.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\img\\item 2.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\item 3.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\item 3.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/item 3.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\img\\item 3.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\item 4.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\item 4.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/item 4.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\img\\item 4.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\K1.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\K1.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/K1.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\img\\K1.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\K2.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\K2.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/K2.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\img\\K2.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\K3.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\K3.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/K3.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\K3.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\K4.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\K4.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/K4.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\img\\K4.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\L1.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\L1.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/L1.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\img\\L1.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\L2.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\L2.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/L2.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\img\\L2.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\L3.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\L3.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/L3.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\img\\L3.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\L4.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\L4.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/L4.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\img\\L4.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\last.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\last.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/last.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\img\\last.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\lastimg.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\lastimg.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/lastimg.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\img\\lastimg.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\login (2).jpg",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\login (2).jpg",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/login (2).jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\img\\login (2).jpg"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\Login.jpg",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\Login.jpg",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/Login.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Login.jpg"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\LoginPage.jpg",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\LoginPage.jpg",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/LoginPage.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\img\\LoginPage.jpg"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\MostPick1.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\MostPick1.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/MostPick1.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\img\\MostPick1.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\picture.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\picture.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/picture.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\img\\picture.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\SigninPage.jpg",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\SigninPage.jpg",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/SigninPage.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\SigninPage.jpg"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\StarStar.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\StarStar.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/StarStar.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\StarStar.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\topRight.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\topRight.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/topRight.png",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\topRight.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\travel.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\travel.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/travel.png",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\travel.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\img\\treasure.png",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\img\\treasure.png",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "img/treasure.png",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\treasure.png"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\js\\jquery.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\js\\jquery.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "js/jquery.min.js",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\js\\main.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\js\\popper.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\js\\popper.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "js/popper.js",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\js\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\bootstrap.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/bootstrap.min.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.cjs.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.cjs.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/aos/aos.cjs.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\aos\\aos.cjs.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/aos/aos.css",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\aos\\aos.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.esm.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.esm.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/aos/aos.esm.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\aos\\aos.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/aos/aos.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\aos\\aos.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\aos\\aos.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/aos/aos.js.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\aos\\aos.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\animations.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\animations.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/isotope-layout/isotope.pkgd.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/isotope-layout/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\isotope-layout\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\lib\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "StayCation",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\wwwroot\\",
       "BasePath": "_content/StayCation",
       "RelativePath": "lib/vendor/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",

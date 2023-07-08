@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\StayCation.csproj": {}
+    "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\StayCation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\StayCation.csproj": {
+    "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\StayCation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\StayCation.csproj",
+        "projectUniqueName": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\StayCation.csproj",
         "projectName": "StayCation",
-        "projectPath": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\StayCation.csproj",
+        "projectPath": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\StayCation.csproj",
         "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\Music\\week-7-Chiheart94\\StayCation\\obj\\",
+        "outputPath": "C:\\Users\\Decagon\\Desktop\\myProjects\\My-Projects\\StayCation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
